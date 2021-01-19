@@ -7,7 +7,10 @@
         <code v-text="'<el-button>'"></code>
         below
       </p>
-      <el-button>el-button</el-button>
+      <h1>HelloWorld</h1>
+      <h1>世界</h1>
+      <h1>你好</h1>
+      <el-button>你好</el-button>
     </div>
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
